@@ -1,0 +1,1 @@
+If your character is a [[Ghoul]] or [[Human]], or [[Super_mutant]] you take three levels of dehydration every 24 hours without water.

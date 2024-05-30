@@ -1,0 +1,1 @@
+If you consume a food with this property, you do not remove any levels of [[Hunger]] unless you consume two foods with this property

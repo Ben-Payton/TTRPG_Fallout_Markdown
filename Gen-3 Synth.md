@@ -1,0 +1,2 @@
+Oftentimes, Humans in the wasteland are actually synthetic machines that are indistinguishable from a regular human created by a secret cabal of scientists called “The Institute”. This variant option provides no abilities or statistical change. However it can provide a psychological or narrative one. Work with your GM on how this potentiality could affect your character. 
+Alternatively, when creating your human character; roll a d20. On a 20, your character is secretly a Gen 3 Synth.

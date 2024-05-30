@@ -1,0 +1,1 @@
+You have disadvantage on all [[Radiation]] and [[Addiction]] checks.

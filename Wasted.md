@@ -1,0 +1,1 @@
+While wasted, you gain the effects of [[Buzzed]], [[Drunk]], and [[Hammered]]. Additionally, you remember nothing from the time while you’re wasted and you fall unconscious after an hour.

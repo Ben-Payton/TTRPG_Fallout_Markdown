@@ -1,0 +1,1 @@
+If you consume a food or drink with this property, you heal a number of [[Hit_Points]] equal to your [[Healing_Rate]].

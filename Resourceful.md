@@ -1,0 +1,1 @@
+You gain one extra [[Karma_Cap]] that you can use each game.

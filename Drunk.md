@@ -1,0 +1,1 @@
+While drunk, you gain the effects of [[Buzzed]], you have 2 less [[Action_Points|AP]], and your maximum [[Stamina Points]] increase by a number equal to your level.

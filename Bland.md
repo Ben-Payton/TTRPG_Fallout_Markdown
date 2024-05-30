@@ -1,0 +1,1 @@
+If you consume a food with this property, you heal a number of [[Stamina Points]] equal to half your level.

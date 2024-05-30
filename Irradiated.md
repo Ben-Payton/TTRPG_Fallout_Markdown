@@ -1,0 +1,1 @@
+You gain one irradiated level. If you gain ten irradiated levels, you gain one level of rads.

@@ -1,0 +1,1 @@
+If you consume a food or drink with this property, your [[Damage_Threshold|DT]] increases by 1 for the next 6 hours.

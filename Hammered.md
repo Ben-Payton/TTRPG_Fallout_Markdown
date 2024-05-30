@@ -1,0 +1,1 @@
+While [[Drunk]], you gain the effects of [[Buzzed]] and [[Drunk]]. Additionally, your maximum stamina points increase by a number equal to your level and whenever you roll a d20 it is subtracted by 5.
